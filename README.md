@@ -1,4 +1,4 @@
-# 十大免费图片网站：
+# 十二大免费图片网站：
 
 1、<a href="https://pixabay.com/" target="_blank">Pixabay</a>
 
@@ -59,3 +59,15 @@
 海量高清图，值得一用
 
 <img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/%E6%91%84%E5%9B%BE%E7%BD%91.JPG" width="880px" title="10.png"  alt=""/>
+
+11、<a href="http://www.58pic.com/" target="_blank">千图网</a>
+
+每天更新量大，PNG可直接下，PSD要收费，其他部分收费
+
+<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/%E5%8D%83%E5%9B%BE%E7%BD%91.JPG" width="880px" title="11.png"  alt=""/>
+
+10、<a href="http://588ku.com/" target="_blank">千库网</a>
+
+PNG可直接下，PSD要收费
+
+<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/%E5%8D%83%E5%BA%93%E7%BD%91.JPG" width="880px" title="12.png"  alt=""/>

@@ -56,6 +56,6 @@
 
 10、<a href="http://699pic.com/" target="_blank">摄图网</a>
 
-全部是无版权的摄影作品
+海量高清图，值得一用
 
 <img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/%E6%91%84%E5%9B%BE%E7%BD%91.JPG" width="880px" title="10.png"  alt=""/>

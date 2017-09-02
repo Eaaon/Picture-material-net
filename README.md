@@ -66,7 +66,7 @@
 
 <img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/%E5%8D%83%E5%9B%BE%E7%BD%91.JPG" width="880px" title="11.png"  alt=""/>
 
-10、<a href="http://588ku.com/" target="_blank">千库网</a>
+12、<a href="http://588ku.com/" target="_blank">千库网</a>
 
 PNG可直接下，PSD要收费
 
